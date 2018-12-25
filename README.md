@@ -1,3 +1,5 @@
+## 扩展在Newsroom数据集和CNN/Daily Mail数据集上的实验
+
 ## Citation
 If you use this code for your research, please cite the paper this code is based on:
 *Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization*:
